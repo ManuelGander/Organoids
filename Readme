@@ -1,1 +1,6 @@
-Reade
+Here are the notebooks with which I created the initial analysis for the Intestinal and Lung Organoid Data.
+
+You can find the plots also in https://docs.google.com/presentation/d/1aw9dsS0vjAJCOtv3KSH3r4q8bCzqju-C6kcgzOeLrdw/edit#slide=id.g25a1655dc2f_0_20
+
+I mostly used CellRank for the analysis (https://cellrank.readthedocs.io/en/latest/), if you have any questions feel free to ask me on TheisLab Slack, or any other way (e.g. via manuelgander1@gmail.com)
+
